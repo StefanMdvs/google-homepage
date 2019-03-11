@@ -1,0 +1,2 @@
+This project is about learning how to copy a google page, set up a div and move it across the page. 
+By the end of this project I would be able to better understand how to operate those changes, get better at using git and the terminal machine.
